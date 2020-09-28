@@ -1,1 +1,1 @@
-FROM gcr.io/linkerd-io/proxy-init:v-1.3.3
+FROM gcr.io/linkerd-io/proxy-init:v1.3.3
